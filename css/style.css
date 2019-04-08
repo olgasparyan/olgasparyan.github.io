@@ -569,29 +569,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-form{
-  padding:10px;
-  border:2px solid #3498db;
-  background:#F0F8FF;
-  border-radius:15px;
-  display:none;
 
-}
-
-#formButton{
-  border-radius: 28px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 20px;
-  background: #3498db;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-  margin:20px;
-
-}
-
-#formButton:hover{
-  background: #3cb0fd;
-  text-decoration: none;
-}
 /*# sourceMappingURL=style.css.map */
