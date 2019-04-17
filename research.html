@@ -62,6 +62,16 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
+	<style>
+	#myDIV {
+  width: 500px;
+  height: 500px;
+  background-color: lightblue;
+	}
+	</style>
+
+
+
 	</head>
 	<body>
 
@@ -89,8 +99,23 @@
 							<h3 class="text-left"><font color="black"> <b>Working Papers:</b></font></h3>
 							<p class="text-left">"Indirect Rule and Public Goods Provision:
 								Evidence from Colonial India" (Under Review)
-								<div style="display: none;" id="hiddenText">This is hidden</div>
-								<a href="#" onclick="$('#hiddenText').show(); return false;">Click here to show hidden text</a>
+
+
+								<button onclick="myFunction()">Abstract</button>
+								<div id="myDIV">THere is my abstract.</div>
+
+								<script>
+								function myFunction() {
+									var x = document.getElementById('myDIV');
+									if (x.style.visibility === 'hidden') {
+										x.style.visibility = 'visible';
+									} else {
+										x.style.visibility = 'hidden';
+									}
+								}
+								</script>
+
+
 								<!---</p> <button type="button" id="formButton">[Show Abstract]</button>
 								<form id="abstract1">
 									<p class="text-left">Abstract here</p>

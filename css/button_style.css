@@ -1,31 +1,16 @@
-form{
-  padding:5px;
-  border:2px solid #3498db;
-  background:#F0F8FF;
-  border-radius:7px;
-  display:none;
-
+#content {
+  display: none;
 }
-
-#formButton{
-  border-radius: 10px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 10px;
-  background: #3498db;
-  padding: 5px 10px 5px 10px;
-  text-decoration: none;
-  margin:10px;
-
+input[type="text"]{
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+    padding: 6px 12px;
+    width: 150px;
+    cursor: pointer;
 }
-
-#formButton:hover{
-  background: #3cb0fd;
-  text-decoration: none;
+input[type="text"]:focus{
+    outline: none;
 }
-
-#abstract1 {
-
-display:none;
-
+input:focus + div#content {
+  display: block;
 }
