@@ -570,6 +570,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+#social{
+  padding-bottom: : 20px;
+}
+
+#social img {
+  width: 30px;
+  
+}
 
 
 /*# sourceMappingURL=style.css.map */
