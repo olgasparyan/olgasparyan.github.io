@@ -196,6 +196,7 @@ h1, h2, h3, h4, h5, h6 {
   background-attachment: fixed;
   background-size: cover;
   position: relative;
+  font: 18px
 }
 .fh5co-hero .overlay, .fh5co-parallax .overlay {
   position: absolute;
