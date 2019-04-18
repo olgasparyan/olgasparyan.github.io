@@ -1,17 +1,18 @@
-document.querySelector('#b1').addEventListener('click', function() {
-  document.querySelector('#c1').style.height = 'auto';
-  this.style.display = 'none';
-});
+var acc = document.getElementsByClassName("accordion");
+var i;
 
-document.querySelector('#b2').addEventListener('click', function() {
-  document.querySelector('#c2').style.height = 'auto';
-  this.style.display = 'none';
-});
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("active");
 
-$(document).ready(function(){
-  $( "div" ).each(function( index ) {
-    if($(this)[0].scrollHeight <= $(this)[0].offsetHeight){
-      $(this).next().hide();
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
     }
   });
-});
+}
