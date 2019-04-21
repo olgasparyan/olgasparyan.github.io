@@ -1,6 +1,5 @@
 # olgasparyan.github.io
-Hi, I am Olga - grad student at the UoR. 
+Hi, I am Olga. I am a grad student at the University of Rochester, and I use GitHub to create my website. 
 
-I am trying to start using GitHub as the primary source for sharing codes and scripts.
-I also want to try using this platform for my personal website 
-
+The website is written in the HTML. 
+The theme that has been used to create the website is designed and kindly provided by the FreeHTML5.co (http://freehtml5.co/).
