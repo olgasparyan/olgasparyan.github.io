@@ -63,45 +63,54 @@
 	<![endif]-->
 
 	<style>
-	.accordion {
-  	background-color: #eee;
-  	color: #444;
-  	cursor: pointer;
-  	padding: 18px;
-  	width: 100%;
-  	text-align: left;
-  	border: none;
-  	outline: none;
-  	transition: 0.4s;
-
+	/* Style the element that is used to open and close the accordion class */
+	p.accordion {
+	    background-color: #eee;
+	    color: #444;
+	    cursor: pointer;
+	    padding: 18px;
+	    width: 100%;
+	    text-align: left;
+	    border: none;
+	    outline: none;
+	    transition: 0.4s;
+	    margin-bottom:10px;
 	}
 
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-	.active, .accordion:hover {
-  	background-color: #ccc;
+	/* Add a background color to the accordion if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+	p.accordion.active, p.accordion:hover {
+	    background-color: #ddd;
 	}
 
-	.accordion:after {
-  	content: '\02795'; /* Unicode character for "plus" sign (+) */
-  	font-size: 13px;
-  	color: #777;
-  	float: right;
-  	margin-left: 5px;
+	/* Unicode character for "plus" sign (+) */
+	p.accordion:after {
+	    content: '\2795';
+	    font-size: 13px;
+	    color: #777;
+	    float: right;
+	    margin-left: 5px;
 	}
 
-	.active:after {
-  	content: "\2796"; /* Unicode character for "minus" sign (-) */
+	/* Unicode character for "minus" sign (-) */
+	p.accordion.active:after {
+	    content: "\2796";
 	}
 
+	/* Style the element that is used for the panel class */
 
-	.panel {
-	  padding: 0 10px;
-	  background-color: white;
-	  max-height: 0;
-	  overflow: hidden;
-		text-align: justify;
-	  transition: max-height 0.2s ease-out;
+	div.panel {
+	    padding: 0 18px;
+	    background-color: white;
+	    max-height: 0;
+	    overflow: hidden;
+	    transition: 0.4s ease-in-out;
+	    opacity: 0;
+	    margin-bottom:10px;
+	}
 
+	div.panel.show {
+	    opacity: 1;
+	    max-height: 500px; /* Whatever you like, as long as its more than the height of the content (on all screen sizes) */
 	}
 	</style>
 
@@ -137,70 +146,76 @@
 
 
 
-							<button class="accordion">"Indirect Rule and Public Goods Provision:
-								Evidence from Colonial India" (Under Review)</button>
+							<p class="accordion">"Indirect Rule and Public Goods Provision:
+								Evidence from Colonial India" (Under Review)</p>
 							<div class="panel">
-								<p><font size="2"><font color="black">This paper examines the persistent effect of historical institutional differences in colonial India on the contemporary provision of public goods.
+								<font size="2"><font color="black">This paper examines the persistent effect of historical institutional differences in colonial India on the contemporary provision of public goods.
 									In particular, it explores the long-term effects in directly and indirectly ruled areas.
 									It looks at a single region of India, which has areas that historically experienced both direct and indirect institutions.
 									The theoretical mechanism focuses on the differences in the local leaders' incentives and emphasizes that the colonizer's formal accountability is more efficient
 									than informal accountability in the absence of effective control mechanisms.
 									Unlike local princes, colonizers in directly ruled territories had stronger incentives to provide goods, because of more restriction by the necessity to extract resources.
-									A spatial regression discontinuity design is used to compare territories with direct and indirect rule. The empirical results show that indirect rule has long-term negative effects on a variety of public goods.</font> </p>
+									A spatial regression discontinuity design is used to compare territories with direct and indirect rule. The empirical results show that
+									indirect rule has long-term negative effects on a variety of public goods.</font>
 							</div>
 
 
-							<button class="accordion">"Decentralization and Ethnic Voting Salience:
-								Evidence from the Russian 1917 Elections"</button>
+							<p class="accordion">"Decentralization and Ethnic Voting Salience:
+								Evidence from the Russian 1917 Elections"</p>
 							<div class="panel">
-								<p><font size="2"><font color="black">The existing literature provides conflicting results about decentralization's impact on ethnic voting.
+							<font size="2"><font color="black">The existing literature provides conflicting results about decentralization's impact on ethnic voting.
 									This paper examines persistent effect of Zemstvo Reform on ethnic voting at the Russian governorates (gubernii) in 1917.
 									Zemstvo reform introduced legislative and executive institutions at the local level and created a platform for effective self-governance.
 									 It did not provide full autonomy to the territories but made local population more integrated in the policy-making process.
 									 I claim that the existence of local self-governance within a decentralized administration creates a legitimate platform for deliberations and enhances collective actions and ethnic mobilization.
 									 Using 1917 data on elections to the All Russian Constituent Assembly that was formed after the October 1917 Revolution,
-									 the paper shows that areas with existing self-governance institutions (decentralized administration) voted more for the ethnic parties than places without such institutions. </font></p>
+									 the paper shows that areas with existing self-governance institutions (decentralized administration) voted more for the ethnic parties than places without such institutions. </font>
 							</div>
 
 
-							<button class="accordion">"To Provide or Not To Provide? Trade-Off of the Local Officials:
-								Evidence from the Russian Cities"</button>
+							<p class="accordion">"To Provide or Not To Provide? Trade-Off of the Local Officials:
+								Evidence from the Russian Cities"</p>
 							<div class="panel">
-								<p><font size="2"><font color="black">This paper exploits the variation in elected and appointed rules at the regional and local tiers of administration to explain the heterogeneity in municipal public goods outcomes.
+								<font size="2"><font color="black">This paper exploits the variation in elected and appointed rules at the regional and local tiers of administration to explain the heterogeneity in municipal public goods outcomes.
 									The theoretical mechanism describes the incentives of local officials. I measure the provision of different types of goods through publicly available contract data.
 									 I explore how recentralization impacts the bidding process, the cost-efficiency of procurement, and whether local firms can have access to these contracts.
 									  As the switching towards appointing procedures is not randomly assigned across the cities,
 										 I use difference-in-difference analysis to test how the transition from elected to appointed procedures at both regional and local levels over time influenced  procurement  and  locally financed contracts.
 										 I expect to see a heterogeneity across different types of the outcomes.
 										 I believe that in case of appointment procedures at both levels of administration, the emphasis is on the club rather than public goods, and there are fewer contracts given to local firms.
-										 The presence of elections at any of these two levels, on the contrary, leads to more public goods contracts, more efficient procurements, and more allocation of contracts to local firms.</font> </p>
+										 The presence of elections at any of these two levels, on the contrary, leads to more public goods contracts, more efficient procurements, and more allocation of contracts to local firms.</font>
 							</div>
 
 
 
 
 							<script>
+							document.addEventListener("DOMContentLoaded", function(event) {
+
 
 							var acc = document.getElementsByClassName("accordion");
-							var i;
+							var panel = document.getElementsByClassName('panel');
 
-							for (i = 0; i < acc.length; i++) {
-  							acc[i].addEventListener("click", function() {
-    							this.classList.toggle("active");
-    							var panel = this.nextElementSibling;
-    							if (panel.style.maxHeight){
-      							panel.style.maxHeight = null;
-									} else {
-										panel.style.maxHeight = panel.scrollHeight + "px";
-									}
-								});
+							for (var i = 0; i < acc.length; i++) {
+							    acc[i].onclick = function() {
+							        var setClasses = !this.classList.contains('active');
+							        setClass(acc, 'active', 'remove');
+							        setClass(panel, 'show', 'remove');
+
+							        if (setClasses) {
+							            this.classList.toggle("active");
+							            this.nextElementSibling.classList.toggle("show");
+							        }
+							    }
 							}
+
 							function setClass(els, className, fnName) {
-								for (i = 0; i < els.length; i++) {
-									els[i].classList[fnName](className);
-								}
+							    for (var i = 0; i < els.length; i++) {
+							        els[i].classList[fnName](className);
+							    }
 							}
 
+							});
 							</script>
 
 
