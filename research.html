@@ -73,7 +73,7 @@
   	border: none;
   	outline: none;
   	transition: 0.4s;
-		
+
 	}
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -195,7 +195,13 @@
 									}
 								});
 							}
-						</script>
+							function setClass(els, className, fnName) {
+								for (var i = 0; i < els.length; i++) {
+									els[i].classList[fnName](className);
+								}
+							}
+
+							</script>
 
 
 
