@@ -572,5 +572,55 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
+.fh5co-hero2 {
+  height: 800px;
+}
+
+.fh5co-hero2 {
+  background-color: #555;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  font: 18px
+}
+.fh5co-hero2 .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: black;
+  opacity: .2;
+}
+
+@media screen and (max-width: 768px) {
+  .fh5co-hero2 {
+    height: inherit;
+    padding: 4em 0;
+  }
+}
+.fh5co-hero2 .fh5co-intro h1 {
+  color: #fff;
+  font-size: 70px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+@media screen and (max-width: 768px) {
+  .fh5co-hero2 .fh5co-intro h1 {
+    font-size: 30px;
+  }
+}
+.fh5co-hero2 .fh5co-intro p {
+  color: #fff;
+}
+.fh5co-hero2 .fh5co-intro p a {
+  color: #fff;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+}
+.fh5co-hero2 .fh5co-intro p a:hover {
+  color: #fff;
+}
+
+
 
 /*# sourceMappingURL=style.css.map */
