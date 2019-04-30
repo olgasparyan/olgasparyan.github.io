@@ -1,4 +1,4 @@
-# olgasparyan.github.io
+# Personal Website using GitHub
 Hi, I am Olga. I am a grad student at the University of Rochester, and I use GitHub to create my website. 
 
 The website is written in the HTML. 
