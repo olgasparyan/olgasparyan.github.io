@@ -626,7 +626,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 hr{
+  height: 1px;
   color: black;
+  background-color: black;
+  border: none;
 }
 
 /*# sourceMappingURL=style.css.map */
