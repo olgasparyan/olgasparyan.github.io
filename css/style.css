@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   background: #fff;
   z-index: 2;
-  margin-bottom: 450px;
+  margin-bottom: 350px;
 }
 @media screen and (max-width: 992px) {
   #fh5co-wrap {
