@@ -138,8 +138,8 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header nav {
   text-align: center;
   position:relative;
-  left: 100px
-  top: -500px
+  left: 100px;
+  top: -50px;
 
 }
 #fh5co-header nav ul {
