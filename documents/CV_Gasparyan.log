@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 OCT 2019 13:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  20 OCT 2019 21:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,7 +618,7 @@ Overfull \hbox (46.5006pt too wide) in paragraph at lines 56--97
  []
 
 
-Overfull \hbox (27.13857pt too wide) in paragraph at lines 98--150
+Overfull \hbox (27.13857pt too wide) in paragraph at lines 98--151
 [] 
  []
 
@@ -631,28 +631,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \vbox (16.09502pt too high) has occurred while \output is active []
+Overfull \vbox (29.695pt too high) has occurred while \output is active []
 
 
 [2]
-Overfull \hbox (1.73784pt too wide) in paragraph at lines 158--176
+Overfull \hbox (1.73784pt too wide) in paragraph at lines 159--177
 [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 180.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 180.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
  (./CV_Gasparyan.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 180.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 180.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `CV_Gasparyan.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 180.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
  5944 strings out of 493014
  86120 string characters out of 6133351
- 184728 words of memory out of 5000000
+ 185728 words of memory out of 5000000
  9448 multiletter control sequences out of 15000+600000
  7991 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -664,7 +664,7 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV_Gasparyan.pdf (3 pages, 96153 bytes).
+Output written on CV_Gasparyan.pdf (3 pages, 96180 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
