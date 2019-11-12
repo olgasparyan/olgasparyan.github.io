@@ -155,22 +155,6 @@
 }
 </style>
 
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    }
-  });
-}
-</script>
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139343679-1"></script>
@@ -282,6 +266,22 @@ for (i = 0; i < acc.length; i++) {
 							</div>
 
 
+							<script>
+							var acc = document.getElementsByClassName("accordion");
+							var i;
+
+							for (i = 0; i < acc.length; i++) {
+							  acc[i].addEventListener("click", function() {
+							    this.classList.toggle("active");
+							    var panel = this.nextElementSibling;
+							    if (panel.style.maxHeight) {
+							      panel.style.maxHeight = null;
+							    } else {
+							      panel.style.maxHeight = panel.scrollHeight + "px";
+							    }
+							  });
+							}
+							</script>
 
 
 
