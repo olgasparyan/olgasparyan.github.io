@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .fh5co-table-cell {
   display: table-cell;
-  /* vertical-align: middle; */
+  vertical-align: middle;
 }
 
 .fh5co-section {
