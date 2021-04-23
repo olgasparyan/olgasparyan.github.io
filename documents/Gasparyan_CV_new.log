@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  1 MAR 2021 22:37
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  23 APR 2021 17:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1051,18 +1051,23 @@ ond12-Italic.otf
 [1
 
 ]
-Overfull \hbox (0.99155pt too wide) in paragraph at lines 202--204
+Overfull \hbox (0.99155pt too wide) in paragraph at lines 206--208
 []\EU1/EBGaramond12(0)/bx/n/12 Golden HSE Award - “Silver Nestling”, National R
 esearch University Higher School
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 283.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 283.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 283.
+Overfull \hbox (19.02034pt too wide) in paragraph at lines 250--252
+[]\EU1/EBGaramond12(0)/bx/n/12 Organizer and Coordinator, Data Science Summer S
+chool, Hertie School and SCRIPTS,
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 285.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 285.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 285.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 285.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 285.
  ) 
 Here is how much of TeX's memory you used:
  21726 strings out of 493591
