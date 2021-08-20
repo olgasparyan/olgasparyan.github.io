@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.2.18)  11 JUN 2021 11:41
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.2.18)  20 AUG 2021 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -10,8 +10,8 @@ Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count163
 \c@section=\count164
@@ -159,25 +159,25 @@ X
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-Requested font "[EBGaramond-Regular.otf]/OT" at 11.99997pt
+Requested font "[EBGaramond-Regular.otf]/OT" at 10.94997pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Regular.otf
-Requested font "[EBGaramond-Regular.otf]/OT" at 12.00003pt
+Requested font "[EBGaramond-Regular.otf]/OT" at 10.95003pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Regular.otf
-Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;" at 12.00
+Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;" at 10.95
 003pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Italic.otf
 Requested font "[EBGaramond-BoldItalic.otf]/OT:script=latn;language=dflt;" at 1
-2.00003pt
+0.95003pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-BoldItalic.otf
-Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;" at 12.0
-0003pt
+Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;" at 10.9
+5003pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Regular.otf
-Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;" at 12.0000
+Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;" at 10.9500
 3pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Bold.otf
@@ -233,9 +233,9 @@ uage=dflt;+pnum;+onum;mapping=tex-text;"
 uage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 124.
+(Font)              scaled to size 10.95pt on input line 124.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
-um;mapping=tex-text;" at 12.0pt
+um;mapping=tex-text;" at 10.95pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Regular.otf
 
@@ -310,15 +310,15 @@ uage=dflt;+pnum;+lnum;mapping=tex-text;"
 (fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]/OT:script=latn;lang
 uage=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 
-Requested font "[EBGaramond-Initials.otf]/OT" at 11.99997pt
+Requested font "[EBGaramond-Initials.otf]/OT" at 10.94997pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Initials.otf
 Missing character: There is no   in font [EBGaramond-Initials.otf]/OT!
-Requested font "[EBGaramond-Initials.otf]/OT" at 12.00003pt
+Requested font "[EBGaramond-Initials.otf]/OT" at 10.95003pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Initials.otf
 Missing character: There is no   in font [EBGaramond-Initials.otf]/OT!
-Requested font "[EBGaramond-Initials.otf]/OT:language=dflt;" at 12.00003pt
+Requested font "[EBGaramond-Initials.otf]/OT:language=dflt;" at 10.95003pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Initials.otf
 Missing character: There is no   in font [EBGaramond-Initials.otf]/OT:language=
@@ -517,7 +517,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 
 LaTeX Warning: Unused global option(s):
-    [12pt].
+    [11pt].
 
 No file Gasparyan_CV_new.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
@@ -631,33 +631,33 @@ LaTeX Info: Redefining \nameref on input line 58.
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 62.
+(Font)              scaled to size 12.0pt on input line 62.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
-um;mapping=tex-text;" at 14.4pt
+um;mapping=tex-text;" at 12.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Regular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 62.
-Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
-mapping=tex-text;" at 14.4pt
- -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
-ond-Bold.otf
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 62.
-Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
-mapping=tex-text;" at 20.74pt
- -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
-ond-Bold.otf
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 63.
+(Font)              scaled to size 12.0pt on input line 62.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
 mapping=tex-text;" at 12.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Bold.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 62.
+Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
+mapping=tex-text;" at 17.28pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
+ond-Bold.otf
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 63.
+Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
+mapping=tex-text;" at 10.95pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
+ond-Bold.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 63.
+(Font)              scaled to size 10.95pt on input line 63.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
-um;+smcp;mapping=tex-text;" at 12.0pt
+um;+smcp;mapping=tex-text;" at 10.95pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Regular.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
@@ -672,26 +672,26 @@ Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
 um;mapping=tex-text;" at 6.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Regular.otf
-Requested font "cmmi12" at 12.0pt
- -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+Requested font "cmmi10" at 10.95pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 Requested font "cmmi8" at 8.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 Requested font "cmmi6" at 6.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-Requested font "cmsy10" at 12.0pt
+Requested font "cmsy10" at 10.95pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 Requested font "cmsy8" at 8.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 Requested font "cmsy6" at 6.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 65.
+(Font)              <10.95> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 65.
-Requested font "cmr12" at 12.0pt
- -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+Requested font "cmr10" at 10.95pt
+ -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 Requested font "cmr8" at 8.0pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 Requested font "cmr6" at 6.0pt
@@ -702,44 +702,40 @@ Overfull \hbox (111.9512pt too wide) in paragraph at lines 65--71
  []
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 106.
+(Font)              scaled to size 10.95pt on input line 106.
 Requested font "[EBGaramond-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onu
-m;mapping=tex-text;" at 12.0pt
+m;mapping=tex-text;" at 10.95pt
  -> /usr/local/texlive/2020/texmf-dist/fonts/opentype/public/ebgaramond/EBGaram
 ond-Italic.otf
+
+Overfull \hbox (15.25357pt too wide) in paragraph at lines 155--156
+[]\TU/EBGaramond(0)/m/n/10.95 “Finding and Accounting for Separation Bias in St
+rategic Choice Models” (with Casey Crisman-
+ []
+
 [1
 
 ]
-Overfull \hbox (1.7835pt too wide) in paragraph at lines 207--209
-[]\TU/EBGaramond(0)/m/n/12 Golden HSE Award - “Silver Nestling”, National Resea
-rch University Higher School
+Overfull \hbox (14.47246pt too wide) in paragraph at lines 171--173
+[]\TU/EBGaramond(0)/m/n/10.95 Research Assistant at Laboratory of Quantitative 
+and Qualitative Methods for Political Regimes
  []
 
 [2]
-Overfull \hbox (21.73233pt too wide) in paragraph at lines 251--253
-[]\TU/EBGaramond(0)/m/n/12 Organizer and Coordinator, Data Science Summer Schoo
-l, Hertie School and SCRIPTS,
- []
-
-
-Overfull \hbox (9.63623pt too wide) in paragraph at lines 265--287
-[] [] 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 293.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 293.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 293.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 294.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 294.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 294.
  ) 
 Here is how much of TeX's memory you used:
- 11772 strings out of 479418
- 231828 string characters out of 5884585
- 538055 words of memory out of 5000000
- 29152 multiletter control sequences out of 15000+600000
- 538593 words of font info for 55 fonts, out of 8000000 for 9000
+ 11771 strings out of 479418
+ 231851 string characters out of 5884585
+ 538056 words of memory out of 5000000
+ 29153 multiletter control sequences out of 15000+600000
+ 538587 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,11n,107p,462b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,107p,462b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Gasparyan_CV_new.pdf (3 pages).
