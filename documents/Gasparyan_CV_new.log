@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.13)  29 OCT 2022 18:08
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.13)  12 DEC 2022 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,7 +329,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--212
 
  []
 
-[2] [3] ) 
+[2]
+! Missing } inserted.
+<inserted text> 
+                }
+l.341 \end{resume}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[3] ) 
 Here is how much of TeX's memory you used:
  8305 strings out of 476919
  122350 string characters out of 5821839
@@ -337,6 +349,6 @@ Here is how much of TeX's memory you used:
  28233 multiletter control sequences out of 15000+600000
  428828 words of font info for 37 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,11n,77p,439b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,11n,77p,439b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Gasparyan_CV_new.xdv (3 pages, 14552 bytes).
+Output written on Gasparyan_CV_new.xdv (3 pages, 14592 bytes).
