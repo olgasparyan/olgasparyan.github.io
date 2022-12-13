@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1670896335 "Gasparyan_CV_new.xdv" "Gasparyan_CV_new.pdf" "Gasparyan_CV_new" 1670896336
-  "Gasparyan_CV_new.xdv" 1670896335 14144 b1f5bc9194afeea372f34f37f08b0ff3 "xelatex"
+["xdvipdfmx"] 1670955905 "Gasparyan_CV_new.xdv" "Gasparyan_CV_new.pdf" "Gasparyan_CV_new" 1670955906
+  "Gasparyan_CV_new.xdv" 1670955905 14128 aafee6cc75aa6eea06fbe327749d1baa "xelatex"
   (generated)
   "Gasparyan_CV_new.pdf"
-["xelatex"] 1670896334 "Gasparyan_CV_new.tex" "Gasparyan_CV_new.xdv" "Gasparyan_CV_new" 1670896336
+["xelatex"] 1670955904 "Gasparyan_CV_new.tex" "Gasparyan_CV_new.xdv" "Gasparyan_CV_new" 1670955906
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm" 1254269338 12076 b54175e02101bea1addf6b2d0197ed12 ""
@@ -62,8 +62,8 @@
   "/usr/local/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1639441644 5093973 cf0e8b3c065fb9d6b4c7a22a2dcb8683 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "Gasparyan_CV_new.aux" 1641841596 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Gasparyan_CV_new.tex" 1670896333 13451 aadb32edd76bfd8b1fd8aee7862fe532 ""
+  "Gasparyan_CV_new.tex" 1670955902 13619 cf318bc9290ecaf95e9840f5eaaee6b9 ""
   "res.cls" 1575949978 25914 e2514ac7abbfc4bc2c03e5965a5dd030 ""
   (generated)
-  "Gasparyan_CV_new.log"
   "Gasparyan_CV_new.xdv"
+  "Gasparyan_CV_new.log"
