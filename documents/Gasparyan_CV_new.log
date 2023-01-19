@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.13)  13 DEC 2022 13:25
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.13)  19 JAN 2023 18:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,7 +307,6 @@ Overfull \hbox (111.9512pt too wide) in paragraph at lines 65--71
  []
 
 Missing character: There is no ’ ("2019) in font ec-lmr10!
-Missing character: There is no ’ ("2019) in font ec-lmr10!
 Missing character: There is no ” ("201D) in font ec-lmr10!
 [1
 
@@ -339,4 +338,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  71i,11n,77p,439b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Gasparyan_CV_new.xdv (3 pages, 14128 bytes).
+Output written on Gasparyan_CV_new.xdv (3 pages, 13996 bytes).
