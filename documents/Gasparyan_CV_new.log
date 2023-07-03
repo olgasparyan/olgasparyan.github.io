@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.13)  19 JUN 2023 13:26
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.13)  3 JUL 2023 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,7 +307,6 @@ Overfull \hbox (111.9512pt too wide) in paragraph at lines 65--71
  []
 
 Missing character: There is no ’ ("2019) in font ec-lmr10!
-Missing character: There is no ” ("201D) in font ec-lmr10!
 [1
 
 ]
@@ -316,7 +315,7 @@ Missing character: There is no ” ("201D) in font ec-lmri10!
 Missing character: There is no “ ("201C) in font ec-lmri10!
 Missing character: There is no ” ("201D) in font ec-lmri10!
 
-Overfull \hbox (14.17499pt too wide) in paragraph at lines 219--220
+Overfull \hbox (14.17499pt too wide) in paragraph at lines 220--221
 \T1/lmr/m/it/10 Types and Ef-fects of Hu-man Rights Rhetoric in the UN Gen-eral
  As-sem-bly \T1/lmr/m/n/10 (Co-Investigator) 
  []
@@ -324,7 +323,7 @@ Overfull \hbox (14.17499pt too wide) in paragraph at lines 219--220
 Missing character: There is no “ ("201C) in font ec-lmri10!
 Missing character: There is no ” ("201D) in font ec-lmri10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--227
+Underfull \hbox (badness 10000) in paragraph at lines 224--228
 
  []
 
@@ -336,6 +335,6 @@ Here is how much of TeX's memory you used:
  28233 multiletter control sequences out of 15000+600000
  428828 words of font info for 37 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,11n,77p,439b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,11n,77p,439b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Gasparyan_CV_new.xdv (3 pages, 14380 bytes).
+Output written on Gasparyan_CV_new.xdv (3 pages, 14344 bytes).
