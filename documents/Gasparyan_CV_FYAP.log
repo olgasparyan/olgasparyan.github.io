@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.3)  2 JAN 2024 16:42
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.3)  24 OCT 2023 11:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Gasparyan_CV_new.tex
-(./Gasparyan_CV_new.tex
+**Gasparyan_CV_FYAP.tex
+(./Gasparyan_CV_FYAP.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./res.cls
 Document Style `res' <26 Sep 89>.
@@ -251,7 +251,7 @@ File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 LaTeX Warning: Unused global option(s):
     [10.95pt].
 
-(./Gasparyan_CV_new.aux)
+(./Gasparyan_CV_FYAP.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
@@ -302,7 +302,7 @@ Missing character: There is no ” ("201D) in font ec-lmri10!
 Missing character: There is no “ ("201C) in font ec-lmri10!
 Missing character: There is no ” ("201D) in font ec-lmri10!
 
-Overfull \hbox (14.17499pt too wide) in paragraph at lines 227--228
+Overfull \hbox (14.17499pt too wide) in paragraph at lines 222--223
 \T1/lmr/m/it/10 Types and Ef-fects of Hu-man Rights Rhetoric in the UN Gen-eral
  As-sem-bly \T1/lmr/m/n/10 (Co-Investigator) 
  []
@@ -310,18 +310,18 @@ Overfull \hbox (14.17499pt too wide) in paragraph at lines 227--228
 Missing character: There is no “ ("201C) in font ec-lmri10!
 Missing character: There is no ” ("201D) in font ec-lmri10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--235
+Underfull \hbox (badness 10000) in paragraph at lines 226--230
 
  []
 
-[2] [3] ) 
+[2] ) 
 Here is how much of TeX's memory you used:
- 8710 strings out of 476683
- 137310 string characters out of 5804048
+ 8707 strings out of 476683
+ 137285 string characters out of 5804048
  1856018 words of memory out of 5000000
- 28883 multiletter control sequences out of 15000+600000
- 538050 words of font info for 43 fonts, out of 8000000 for 9000
+ 28881 multiletter control sequences out of 15000+600000
+ 537685 words of font info for 42 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,76p,439b,421s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,76p,440b,363s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Gasparyan_CV_new.xdv (3 pages, 12340 bytes).
+Output written on Gasparyan_CV_FYAP.xdv (2 pages, 10784 bytes).
