@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.3)  25 MAY 2024 12:27
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.3)  12 AUG 2024 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -293,7 +293,6 @@ Overfull \hbox (111.9512pt too wide) in paragraph at lines 67--73
 [][] 
  []
 
-Missing character: There is no ’ ("2019) in font ec-lmr10!
 [1
 
 ]
@@ -302,7 +301,7 @@ Missing character: There is no ” ("201D) in font ec-lmri10!
 Missing character: There is no “ ("201C) in font ec-lmri10!
 Missing character: There is no ” ("201D) in font ec-lmri10!
 
-Overfull \hbox (14.17499pt too wide) in paragraph at lines 241--242
+Overfull \hbox (14.17499pt too wide) in paragraph at lines 239--240
 \T1/lmr/m/it/10 Types and Ef-fects of Hu-man Rights Rhetoric in the UN Gen-eral
  As-sem-bly \T1/lmr/m/n/10 (Co-Investigator) 
  []
@@ -310,18 +309,12 @@ Overfull \hbox (14.17499pt too wide) in paragraph at lines 241--242
 Missing character: There is no “ ("201C) in font ec-lmri10!
 Missing character: There is no ” ("201D) in font ec-lmri10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--249
+Underfull \hbox (badness 10000) in paragraph at lines 243--247
 
  []
 
 
-Overfull \hbox (24.1761pt too wide) in paragraph at lines 291--300
-[]\T1/lmr/m/n/10 APSA 2018-20, 2022-24 (sched-uled); MPSA 2014-15, 2018-2022, 2
-020 (can-celed), 2024(sched-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--300
+Underfull \hbox (badness 10000) in paragraph at lines 289--299
 
  []
 
@@ -333,6 +326,6 @@ Here is how much of TeX's memory you used:
  28883 multiletter control sequences out of 15000+600000
  538050 words of font info for 43 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,76p,439b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,76p,439b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Gasparyan_CV_new.xdv (3 pages, 12864 bytes).
+Output written on Gasparyan_CV_new.xdv (3 pages, 13040 bytes).
