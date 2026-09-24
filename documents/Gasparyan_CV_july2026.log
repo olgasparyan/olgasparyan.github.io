@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  21 JUL 2026 18:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  11 SEP 2026 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -445,7 +445,7 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Gasparyan_CV_july2026.out' has not changed.
-(rerunfilecheck)             Checksum: 9B313DC7E5F57B57147283E22BB6689D;4844.
+(rerunfilecheck)             Checksum: 90624817482018C327C4B1A96729E19D;4952.
  ) 
 Here is how much of TeX's memory you used:
  12702 strings out of 473190
@@ -462,7 +462,7 @@ f-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts
 /type1/public/lm/lmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
 c/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri9
 .pfb>
-Output written on Gasparyan_CV_july2026.pdf (3 pages, 187531 bytes).
+Output written on Gasparyan_CV_july2026.pdf (3 pages, 187658 bytes).
 PDF statistics:
  199 PDF objects out of 1000 (max. 8388607)
  177 compressed objects within 2 object streams
