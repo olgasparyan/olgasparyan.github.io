@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1790260127.60457 "Gasparyan_CV_sep2026.tex" "Gasparyan_CV_sep2026.pdf" "Gasparyan_CV_sep2026" 1790260128.2716 0
+["pdflatex"] 1793155231.3713 "Gasparyan_CV_sep2026.tex" "Gasparyan_CV_sep2026.pdf" "Gasparyan_CV_sep2026" 1793155232.09262 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -96,9 +96,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1766032382 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "Gasparyan_CV_sep2026.aux" 1790260128.20586 3662 8fdace6b85fd2926844d4fa75742dc62 "pdflatex"
-  "Gasparyan_CV_sep2026.out" 1790260128.20666 5033 9cc6df88065b0d31b292169958ea74bc "pdflatex"
-  "Gasparyan_CV_sep2026.tex" 1790260126.84182 13143 a96a755da9756cd3ecdfe86fbf5c75d2 ""
+  "Gasparyan_CV_sep2026.aux" 1793155232.02325 3662 7f405bb84d599f8b2003678178c271ae "pdflatex"
+  "Gasparyan_CV_sep2026.out" 1793155232.02377 5033 9cc6df88065b0d31b292169958ea74bc "pdflatex"
+  "Gasparyan_CV_sep2026.tex" 1793155230.58936 13425 3b9786f1a312c262ca3aba479e87e305 ""
   (generated)
   "Gasparyan_CV_sep2026.aux"
   "Gasparyan_CV_sep2026.log"

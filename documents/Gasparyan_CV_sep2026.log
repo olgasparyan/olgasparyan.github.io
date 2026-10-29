@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  24 SEP 2026 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  27 OCT 2026 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -424,7 +424,7 @@ LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-53.
+54.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -434,7 +434,9 @@ al/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/local/texlive/2025/tex
 mf-dist/tex/latex/lm/omllmm.fd) (/usr/local/texlive/2025/texmf-dist/tex/latex/l
 m/omslmsy.fd) (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd)
 
-[3] 
+[3]
+
+[4] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./Gasparyan_CV_sep2026.aux)
  ***********
@@ -448,13 +450,13 @@ Package rerunfilecheck Info: File `Gasparyan_CV_sep2026.out' has not changed.
 (rerunfilecheck)             Checksum: 9CC6DF88065B0D31B292169958EA74BC;5033.
  ) 
 Here is how much of TeX's memory you used:
- 12708 strings out of 473190
- 202621 string characters out of 5715801
+ 12712 strings out of 473190
+ 202656 string characters out of 5715801
  665556 words of memory out of 5000000
  35653 multiletter control sequences out of 15000+600000
- 611802 words of font info for 117 fonts, out of 8000000 for 9000
+ 611932 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1017b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1017b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texm
@@ -462,10 +464,10 @@ f-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts
 /type1/public/lm/lmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
 c/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri9
 .pfb>
-Output written on Gasparyan_CV_sep2026.pdf (3 pages, 188654 bytes).
+Output written on Gasparyan_CV_sep2026.pdf (4 pages, 189269 bytes).
 PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
+ 208 PDF objects out of 1000 (max. 8388607)
+ 185 compressed objects within 2 object streams
+ 51 named destinations out of 1000 (max. 500000)
  30929 words of extra memory for PDF output out of 35830 (max. 10000000)
 
