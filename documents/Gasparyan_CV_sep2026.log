@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  27 OCT 2026 22:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  24 NOV 2026 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,9 +434,7 @@ al/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/local/texlive/2025/tex
 mf-dist/tex/latex/lm/omllmm.fd) (/usr/local/texlive/2025/texmf-dist/tex/latex/l
 m/omslmsy.fd) (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd)
 
-[3]
-
-[4] 
+[3] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./Gasparyan_CV_sep2026.aux)
  ***********
@@ -447,13 +445,13 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Gasparyan_CV_sep2026.out' has not changed.
-(rerunfilecheck)             Checksum: 9CC6DF88065B0D31B292169958EA74BC;5033.
+(rerunfilecheck)             Checksum: F98F46F3520597744411189B21CD7A63;4865.
  ) 
 Here is how much of TeX's memory you used:
- 12712 strings out of 473190
- 202656 string characters out of 5715801
+ 12709 strings out of 473190
+ 202628 string characters out of 5715801
  665556 words of memory out of 5000000
- 35653 multiletter control sequences out of 15000+600000
+ 35652 multiletter control sequences out of 15000+600000
  611932 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1017b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -464,10 +462,10 @@ f-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts
 /type1/public/lm/lmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
 c/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri9
 .pfb>
-Output written on Gasparyan_CV_sep2026.pdf (4 pages, 189269 bytes).
+Output written on Gasparyan_CV_sep2026.pdf (3 pages, 188438 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 51 named destinations out of 1000 (max. 500000)
- 30929 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 199 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 30921 words of extra memory for PDF output out of 35830 (max. 10000000)
 
